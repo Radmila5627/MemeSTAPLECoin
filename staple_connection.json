@@ -1,0 +1,19 @@
+{
+  "name": "STAPLE — Connection",
+  "description": "Symbolic Paperclip representing unity and connection within the blockchain. Part of the STAPLE Meme visuals.",
+  "image": "ipfs://REPLACE_WITH_CID_STAPLE_SYMBOL",
+  "attributes": [
+    {
+      "trait_type": "Symbol",
+      "value": "Linked Paperclips"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Connection"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Green-Gold"
+    }
+  ]
+}
