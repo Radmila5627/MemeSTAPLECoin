@@ -1,0 +1,19 @@
+{
+  "name": "STAPLE — Fun Spirit",
+  "description": "A cheerful blue paperclip spreading joy and optimism through the STAPLE meme project.",
+  "image": "ipfs://REPLACE_WITH_CID_STAPLE_MASCOT",
+  "attributes": [
+    {
+      "trait_type": "Theme",
+      "value": "Meme Energy"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Happy"
+    }
+  ]
+}
